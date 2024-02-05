@@ -1,0 +1,464 @@
+{
+  "cities": [
+    {
+      "id": "2",
+      "name": "Paris",
+      "country": 2
+    },
+    {
+      "id": "3",
+      "name": "Berlin",
+      "country": 3
+    },
+    {
+      "id": "4",
+      "name": "Madrid",
+      "country": 4
+    },
+    {
+      "id": "5",
+      "name": "Rome",
+      "country": 5
+    },
+    {
+      "id": "6",
+      "name": "Athens",
+      "country": 6
+    },
+    {
+      "id": "7",
+      "name": "Amsterdam",
+      "country": 7
+    },
+    {
+      "id": "8",
+      "name": "Vienna",
+      "country": 8
+    },
+    {
+      "id": "9",
+      "name": "Dublin",
+      "country": 9
+    },
+    {
+      "id": "10",
+      "name": "Lisbon",
+      "country": 10
+    },
+    {
+      "id": "11",
+      "name": "Brussels",
+      "country": 11
+    },
+    {
+      "id": "12",
+      "name": "Stockholm",
+      "country": 12
+    },
+    {
+      "id": "13",
+      "name": "Copenhagen",
+      "country": 13
+    },
+    {
+      "id": "15",
+      "name": "Warsaw",
+      "country": 15
+    },
+    {
+      "id": "16",
+      "name": "Prague",
+      "country": 16
+    },
+    {
+      "id": "17",
+      "name": "Budapest",
+      "country": 17
+    },
+    {
+      "id": "18",
+      "name": "Zurich",
+      "country": 18
+    },
+    {
+      "id": "19",
+      "name": "Helsinki",
+      "country": 19
+    },
+    {
+      "id": "20",
+      "name": "Bratislava",
+      "country": 20
+    },
+    {
+      "id": "21",
+      "name": "Sofia",
+      "country": 21
+    },
+    {
+      "id": "22",
+      "name": "Bucharest",
+      "country": 22
+    },
+    {
+      "id": "23",
+      "name": "Ljubljana",
+      "country": 23
+    },
+    {
+      "id": "24",
+      "name": "Valletta",
+      "country": 24
+    },
+    {
+      "id": "25",
+      "name": "Luxembourg City",
+      "country": 25
+    },
+    {
+      "id": "26",
+      "name": "Vilnius",
+      "country": 26
+    },
+    {
+      "id": "27",
+      "name": "Tallinn",
+      "country": 27
+    },
+    {
+      "id": "29",
+      "name": "Belgrade",
+      "country": 29
+    },
+    {
+      "id": "30",
+      "name": "Zagreb",
+      "country": 30
+    },
+    {
+      "id": "31",
+      "name": "Skopje",
+      "country": 31
+    },
+    {
+      "id": "32",
+      "name": "Reykjavik",
+      "country": 32
+    },
+    {
+      "id": "33",
+      "name": "Frankfurt",
+      "country": 3
+    },
+    {
+      "id": "34",
+      "name": "Barcelona",
+      "country": 4
+    },
+    {
+      "id": "35",
+      "name": "Munich",
+      "country": 3
+    },
+    {
+      "id": "36",
+      "name": "Milan",
+      "country": 5
+    },
+    {
+      "id": "37",
+      "name": "Hamburg",
+      "country": 3
+    },
+    {
+      "id": "38",
+      "name": "Cologne",
+      "country": 3
+    },
+    {
+      "id": "39",
+      "name": "Naples",
+      "country": 5
+    },
+    {
+      "id": "40",
+      "name": "Turin",
+      "country": 5
+    },
+    {
+      "id": "41",
+      "name": "Marseille",
+      "country": 2
+    },
+    {
+      "id": "42",
+      "name": "Lyon",
+      "country": 2
+    },
+    {
+      "id": "43",
+      "name": "Hannover",
+      "country": 3
+    },
+    {
+      "id": "44",
+      "name": "Bremen",
+      "country": 3
+    },
+    {
+      "id": "45",
+      "name": "Stuttgart",
+      "country": 3
+    },
+    {
+      "id": "46",
+      "name": "Dusseldorf",
+      "country": 3
+    },
+    {
+      "id": "47",
+      "name": "Leipzig",
+      "country": 3
+    },
+    {
+      "id": "48",
+      "name": "Dresden",
+      "country": 3
+    },
+    {
+      "id": "49",
+      "name": "Rostock",
+      "country": 3
+    },
+    {
+      "id": "50",
+      "name": "Palermo",
+      "country": 5
+    },
+    {
+      "id": "51",
+      "name": "Genoa",
+      "country": 5
+    },
+    {
+      "id": "52",
+      "name": "Bologna",
+      "country": 5
+    },
+    {
+      "id": "53",
+      "name": "Florence",
+      "country": 5
+    },
+    {
+      "id": "54",
+      "name": "Pisa",
+      "country": 5
+    },
+    {
+      "id": "55",
+      "name": "Venice",
+      "country": 5
+    },
+    {
+      "id": "56",
+      "name": "Verona",
+      "country": 5
+    },
+    {
+      "id": "57",
+      "name": "Seville",
+      "country": 4
+    },
+    {
+      "id": "58",
+      "name": "Valencia",
+      "country": 4
+    },
+    {
+      "id": "59",
+      "name": "Zaragoza",
+      "country": 4
+    },
+    {
+      "id": "60",
+      "name": "Malaga",
+      "country": 4
+    },
+    {
+      "id": "61",
+      "name": "Murcia",
+      "country": 4
+    },
+    {
+      "id": "62",
+      "name": "Palma de Mallorca",
+      "country": 4
+    },
+    {
+      "id": "63",
+      "name": "Las Palmas",
+      "country": 4
+    },
+    {
+      "id": "6969",
+      "name": "Gostivar",
+      "country": "3"
+    },
+    {
+      "id": "59683",
+      "name": "Tetovo",
+      "country": "4"
+    },
+    {
+      "id": "23289",
+      "name": "Ohrid",
+      "country": "3"
+    },
+    {
+      "id": "75646",
+      "name": "Struga",
+      "country": "3"
+    },
+    {
+      "id": "42342342",
+      "name": "Test city",
+      "country": "4"
+    },
+    {
+      "id": 213123,
+      "name": "Rome",
+      "country": "5"
+    }
+  ],
+  "countries": [
+    {
+      "id": "1",
+      "name": "United Kingdom"
+    },
+    {
+      "id": "2",
+      "name": "France"
+    },
+    {
+      "id": "3",
+      "name": "Germany"
+    },
+    {
+      "id": "4",
+      "name": "Spain"
+    },
+    {
+      "id": "5",
+      "name": "Italy"
+    },
+    {
+      "id": "6",
+      "name": "Greece"
+    },
+    {
+      "id": "7",
+      "name": "Netherlands"
+    },
+    {
+      "id": "8",
+      "name": "Austria"
+    },
+    {
+      "id": "9",
+      "name": "Ireland"
+    },
+    {
+      "id": "10",
+      "name": "Portugal"
+    },
+    {
+      "id": "11",
+      "name": "Belgium"
+    },
+    {
+      "id": "12",
+      "name": "Sweden"
+    },
+    {
+      "id": "13",
+      "name": "Denmark"
+    },
+    {
+      "id": "14",
+      "name": "Norway"
+    },
+    {
+      "id": "15",
+      "name": "Poland"
+    },
+    {
+      "id": "16",
+      "name": "Czech Republic"
+    },
+    {
+      "id": "17",
+      "name": "Hungary"
+    },
+    {
+      "id": "18",
+      "name": "Switzerland"
+    },
+    {
+      "id": "19",
+      "name": "Finland"
+    },
+    {
+      "id": "20",
+      "name": "Slovakia"
+    },
+    {
+      "id": "21",
+      "name": "Bulgaria"
+    },
+    {
+      "id": "22",
+      "name": "Romania"
+    },
+    {
+      "id": "23",
+      "name": "Slovenia"
+    },
+    {
+      "id": "24",
+      "name": "Malta"
+    },
+    {
+      "id": "25",
+      "name": "Luxembourg"
+    },
+    {
+      "id": "26",
+      "name": "Lithuania"
+    },
+    {
+      "id": "27",
+      "name": "Estonia"
+    },
+    {
+      "id": "28",
+      "name": "Latvia"
+    },
+    {
+      "id": "29",
+      "name": "Serbia"
+    },
+    {
+      "id": "30",
+      "name": "Croatia"
+    },
+    {
+      "id": "31",
+      "name": "Macedonia"
+    },
+    {
+      "id": "32",
+      "name": "Iceland"
+    }
+  ]
+}

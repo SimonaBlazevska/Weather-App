@@ -1,0 +1,10 @@
+<div class="card">
+  <button (click)="backToHome()">Back</button>
+  <h2>{{city?.name}}</h2>
+  <p class="country-name">{{country?.name}}</p>
+  <p>Latitude: {{lat}}</p>
+  <p>Longitude: {{lng}}</p>
+  <span class="value">{{temperature}}°{{measurement}}</span><br>
+  <span class="condition">Cloudy</span><br>
+  <button (click)="changeMeasurement()">Change measurement</button>
+</div>

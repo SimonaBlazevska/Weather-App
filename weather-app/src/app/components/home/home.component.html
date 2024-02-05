@@ -1,0 +1,15 @@
+<div class="city-list-container">
+  <h1>List of Cities</h1>
+
+  <button (click)="changeMeasurement()">Change measurement</button>
+  <button (click)="addCity()">Add city</button>
+  <ul class="city-list">
+    <li *ngFor="let city of cities; let i = index" class="city-item">
+      <span class="city-name">{{ city.name }}</span>
+      <span class="city-temperature">Temperature: {{ temperatures[i] }}°{{measurement}}</span>
+      <button (click)="deleteCity(city.id)">Delete</button>
+      <button (click)="cityDetails(city.id)">More details</button>
+    </li>
+  </ul>
+</div>
+
